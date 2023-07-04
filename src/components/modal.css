@@ -1,0 +1,19 @@
+.modal-wrap {
+    position: fixed;
+    z-index: 99999;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, .6);
+}
+
+.modal {
+    background-color: #fff;
+    width: 60%;
+    min-height: 200px;
+    margin: 50px auto 0;
+    border-radius: 4px;
+    padding: 10px;
+    text-align: center;
+}
